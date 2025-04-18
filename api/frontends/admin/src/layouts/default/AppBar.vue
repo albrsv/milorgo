@@ -2,7 +2,7 @@
   <v-navigation-drawer expand-on-hover rail>
     <v-list>
       <v-list-item
-        prepend-avatar="https://www.ardanlabs.com/images/ardanlabs-logo.svg"
+        prepend-avatar="/star-black.png"
       ></v-list-item>
     </v-list>
 
